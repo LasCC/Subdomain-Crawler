@@ -1,4 +1,4 @@
-# Subdomain crawnler 
+# Subdomain crawler 
 
 Brute force domain with a wordlist and return all the code 200 response.
 
